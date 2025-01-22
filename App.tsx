@@ -25,7 +25,7 @@ export default function App() {
     const uppercaseChars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
     const lowercaseChars = 'abcdefghijklmnopqrstuvwxyz'
     const numberChars = '0123456789'
-    const symboleChars = '!@#$%^&*'
+    const symboleChars = '!@#$%^&*(){}[]|?><'
 
     if(uppercase){
       charactersLists += uppercaseChars
